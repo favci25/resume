@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Resume – [Your First Name]</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      max-width: 800px;
+      margin: 2rem auto;
+      padding: 1rem;
+      background-color: #f8f9fa;
+      color: #212529;
+    }
+    h1, h2 {
+      color: #343a40;
+    }
+    .section {
+      margin-bottom: 2rem;
+    }
+    a {
+      color: #007bff;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    .muted {
+      color: #6c757d;
+    }
+  </style>
+</head>
+<body>
+  <h1>[Your First Name] [Last Name]</h1>
+  <p class="muted">Business Analytics MSc Student · Data Analyst · Compliance Enthusiast</p>
+
+  <div class="section">
+    <h2>Contact</h2>
+    <p>Email: firstname [at] domain [dot] com</p>
+    <p>LinkedIn: <a href="https://www.linkedin.com/in/[your-profile]" target="_blank">linkedin.com/in/[your-profile]</a></p>
+    <p>Location: Vienna, Austria (Open to relocation)</p>
+  </div>
+
+  <div class="section">
+    <h2>Education</h2>
+    <p><strong>University of Vienna</strong> – M.Sc. in Business Analytics<br/>
+    <em>Current</em></p>
+
+    <p><strong>Koç University</strong> – B.Sc. in Industrial Engineering & B.A. in Economics (Double Major)<br/>
+    GPA: 3.6 / 3.56</p>
+  </div>
+
+  <div class="section">
+    <h2>Experience</h2>
+    <p><strong>Amazon</strong> – Retail Vendor Manager Intern<br/>
+    ▪ Automated weekly reports, analyzed sales KPIs, improved vendor onboarding<br/>
+    ▪ Gained hands-on experience with SQL, Excel, and internal Amazon tools</p>
+
+    <p><strong>Eczacıbaşı</strong> – Customer Experience Process Intern<br/>
+    ▪ Designed and implemented process improvements using analytical tools</p>
+
+    <p><strong>Borusan Pipe</strong> – Product & Services Development Intern<br/>
+    ▪ Supported innovation projects; analyzed product performance metrics</p>
+
+    <p><strong>Aselsan</strong> – Project Engineer (Electronic Warfare)<br/>
+    ▪ Managed timelines using Primavera6; collaborated with R&D teams</p>
+  </div>
+
+  <div class="section">
+    <h2>Skills</h2>
+    <ul>
+      <li><strong>Programming:</strong> Python, SQL, Pandas, Numpy</li>
+      <li><strong>Tools:</strong> SAP, Jira, Power BI, Excel, Primavera6</li>
+      <li><strong>Languages:</strong> Turkish (Native), English (Fluent), Italian (Good), German (Beginner)</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>Highlights</h2>
+    <ul>
+      <li>First-generation university graduate, fully self-financed studies</li>
+      <li>Multidisciplinary background in engineering, economics, and data</li>
+      <li>Strong interest in compliance, analytics, and cross-functional roles</li>
+    </ul>
+  </div>
+
+</body>
+</html>
